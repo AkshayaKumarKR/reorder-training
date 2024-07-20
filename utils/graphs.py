@@ -1,0 +1,3 @@
+GRAPHS = [
+    "ogbn-products"
+]
